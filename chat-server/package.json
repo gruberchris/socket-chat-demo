@@ -1,0 +1,17 @@
+{
+  "name": "chat-server",
+  "version": "0.1.0",
+  "description": "A TCP web socket server demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Gruber",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
